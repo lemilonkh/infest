@@ -1,6 +1,6 @@
-# Quasar App
+# Infest
 
-> A Quasar project
+> A mobile and desktop game built on Quasar, Vue.js and leaflet.js
 
 ## Build Setup
 
