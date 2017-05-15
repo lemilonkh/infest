@@ -1,9 +1,9 @@
 {
-  "name": "mapgame",
+  "name": "infest",
   "version": "0.0.1",
   "description": "A mobile and desktop game built on Quasar, Vue.js and leaflet.js",
   "author": "Milan Gruner <milangruner@gmail.com>",
-  "repository": "http://github.com/lemilonkh/mapgame",
+  "repository": "http://github.com/lemilonkh/infest",
   "license": "MIT",
   "scripts": {
     "clean": "node build/script.clean.js",
