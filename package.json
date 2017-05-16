@@ -16,10 +16,12 @@
     "fastclick": "^1.0.6",
     "material-design-icons": "^3.0.1",
     "moment": "^2.15.0",
+    "quasar": "0.0.18",
     "quasar-framework": "^0.13.4",
     "roboto-fontface": "^0.7.0",
     "vue": "^2.3.0",
-    "vue-router": "^2.0.0"
+    "vue-router": "^2.0.0",
+    "vue2-leaflet": "0.0.49"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
